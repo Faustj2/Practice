@@ -8,6 +8,8 @@ package net.minecraft.src;
 
 Public Class mod_BlockMod extends Basemod {
 
+  public static final Block LobsterPot;
+
   public string getversion() {
       return null;
     }

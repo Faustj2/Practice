@@ -4,3 +4,19 @@
 *.jar
 *.war
 *.ear
+package net.minecraft.src;
+
+Public Class mod_BlockMod extends Basemod {
+
+  public string getversion() {
+      return null;
+    }
+
+    public void load() {
+
+    }
+    
+    public string version()
+        return "0.1";
+    }
+}
